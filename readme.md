@@ -15,10 +15,20 @@
 </div>
 <div id="wave" align="center">
 <h1>
-  hey there
+  Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+
+### :man_technologist: About Me
+
+- :telescope: I’m working as a Software Developer and contributing to frontend, backend and devops for building web applications.
+
+- :zap: In my free time, I mostly watch Udemy courses to help strengthen my skills and increase my problem solving ability.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kibet-humphrey-a00b4b175/)
