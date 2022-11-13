@@ -29,7 +29,7 @@
 
 - :telescope: I’m working as a Software Developer and contributing to frontend, backend and devops for building web applications.
 
-- :zap: In my free time, I mostly watch Udemy courses to help strengthen my skills and increase my problem solving ability.
+- :zap: In my free time, I have always watched Udemy courses to help strengthen my skills and increase my problem solving ability.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kibet-humphrey-a00b4b175/)
 
@@ -68,4 +68,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kibethh&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibethh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibethh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
